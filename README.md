@@ -32,9 +32,10 @@ Our code has been tested under the following platform and environment:
 - Run ```python3 inference.py```
 - The inference results are in the ```./results``` folder
 
+<!--   
 ## Citation
 If you find our work helpful to your research, please consider to cite our paper.
 ```bibtex
 ```
-
+-->
 
