@@ -15,7 +15,7 @@ The Code and pretrained model for our paper <b>Location-aware Single Image Refle
 
 ## Prerequisites
 Our code has been tested under the following platform and environment:
-- Ubuntu, CPU or NVIDIA GPU + CUDA, CuDNN
+- Ubuntu. CPU or NVIDIA GPU + CUDA, CuDNN
 - Python 3.7.5, Pytorch 1.2.0
 - Requirements: numpy, tqdm, Pillow, dominate, scikit-image
 
