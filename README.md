@@ -11,17 +11,27 @@ Code and pretrained model for our paper <b>Location-aware Single Image Reflectio
 ---
 
 ## Prerequisites
-Our code has been tested under the following system and environment:
-- Ubuntu 18.04
-- Python 3.7.5
-- Pytorch 1.2.0
-- CPU or NVIDIA RTX 2080Ti GPU  + CUDA 10.0 CuDNN
+Our code has been tested under the following platform and environment:
+- Ubuntu 18.04, CPU or NVIDIA RTX 2080Ti GPU  + CUDA 10.0 CuDNN
+- Python 3.7.5, Pytorch 1.2.0
+- Requirements: numpy, tqdm, Pillow，dominate, scikit-image
 
 ## Setup
 - Clone or Download this repo
 - ```$ cd Location-aware-SIRR```
 - ```$ mkdir model```
-- Download the pretrained model 
+- Download the pretrained model [here](https://drive.google.com/file/d/1TjH5YUBC-cDt09tDXhE5GbeO5FuO7FVZ/view)
+- Move the downloaded model(```model.pth```) to ```./model``` folder
 
+## Usage
+- The example test images are provided in ```./test_images/blend``` folder
+- If you have ground truth blackground images, put them into ```./test_images/transmission``` folder ( Note that the same pair of images need to be named the same ).
+- Run ```python3 inference.py```
+- The inference results are in the ```./results``` folder
+
+## Citation
+If you find our work helpful to your research, please consider to cite our paper.
+```bibtex
+```
 
 
