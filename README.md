@@ -6,7 +6,8 @@
 
 <p align='center'>
 The shown images are provided by <a href="https://github.com/JHL-HUST/IBCLN">dataset from IBCLN</a>, <a href="https://sir2data.github.io/">SIR<sup>2</sup> benchmark dataset</a>, <a href="https://github.com/Vandermode/ERRNet">dataset from ERRNet</a> and the Internet images.
-  
+</p>
+<p>
 Code and pretrained model for our paper <b>Location-aware Single Image Reflection Removal</b><!--   (<a href="1">Arxiv Preprint</a>) -->
 </p>
 
