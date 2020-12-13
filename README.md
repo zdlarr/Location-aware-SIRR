@@ -15,7 +15,7 @@ Our code has been tested under the following system and environment:
 - Ubuntu 18.04
 - Python 3.7.5
 - Pytorch 1.2.0
-- CPU or NVIDIA RTX 2080Ti GPU  + CUDA CuDNN 10.0
+- CPU or NVIDIA RTX 2080Ti GPU  + CUDA 10.0 CuDNN
 
 
 
