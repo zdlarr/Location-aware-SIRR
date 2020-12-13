@@ -5,6 +5,7 @@
 </div>
 
 <p align='center'>
+The shown images are provided by [SIR<sup>2</sup> benchmark dataset](https://sir2data.github.io/)
 Code and pretrained model for our paper <b>Location-aware Single Image Reflection Removal</b><!--   (<a href="1">Arxiv Preprint</a>) -->
 </p>
 
