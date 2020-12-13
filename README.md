@@ -17,5 +17,11 @@ Our code has been tested under the following system and environment:
 - Pytorch 1.2.0
 - CPU or NVIDIA RTX 2080Ti GPU  + CUDA 10.0 CuDNN
 
+## Setup
+- Clone or Download this repo
+- ```$ cd Location-aware-SIRR```
+- ```$ mkdir model```
+- Download the pretrained model 
+
 
 
