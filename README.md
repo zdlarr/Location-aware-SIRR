@@ -5,7 +5,7 @@
 </div>
 
 <p align='center'>
-The shown images are provided by <a href="https://github.com/JHL-HUST/IBCLN">dataset from IBCLN</a>, <a href="https://github.com/Vandermode/ERRNet">ERRNet</a>, <a href="https://sir2data.github.io/">SIR<sup>2</sup> benchmark dataset</a> and the Internet images.
+The shown images are provided by the dataset from <a href="https://github.com/JHL-HUST/IBCLN">IBCLN</a>, <a href="https://github.com/Vandermode/ERRNet">ERRNet</a>, <a href="https://sir2data.github.io/">SIR<sup>2</sup> benchmark dataset</a> and the Internet images.
 </p>
 <p align='center'>
 Code and pretrained model for our paper <b>Location-aware Single Image Reflection Removal</b><!--   (<a href="1">Arxiv Preprint</a>) -->
