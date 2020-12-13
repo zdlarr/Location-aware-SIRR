@@ -6,7 +6,6 @@ from utils.util import make_power
 import torch.nn.functional as F
 import torch.utils.data as data
 import torchvision.transforms as transforms
-import cv2
 import numpy as np
 
 class DatasetDataLoader(object):
