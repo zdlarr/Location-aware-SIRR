@@ -8,7 +8,7 @@
 The shown images are provided by the datasets from <a href="https://github.com/JHL-HUST/IBCLN">IBCLN</a>, <a href="https://github.com/Vandermode/ERRNet">ERRNet</a>, <a href="https://sir2data.github.io/">SIR<sup>2</sup></a> and the Internet images.
 </p>
 <p align='center'>
-The code and pretrained model for our paper: <b>Location-aware Single Image Reflection Removal</b> (<a href="https://arxiv.org/pdf/2012.07131.pdf">Arxiv Preprint</a>)
+The code and pretrained model for our paper: <b>Location-aware Single Image Reflection Removal</b> [<a href="https://arxiv.org/pdf/2012.07131.pdf">Arxiv Preprint</a>]
 </p>
 
 ---
