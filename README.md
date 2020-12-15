@@ -8,7 +8,7 @@
 The shown images are provided by the datasets from <a href="https://github.com/JHL-HUST/IBCLN">IBCLN</a>, <a href="https://github.com/Vandermode/ERRNet">ERRNet</a>, <a href="https://sir2data.github.io/">SIR<sup>2</sup></a> and the Internet images.
 </p>
 <p align='center'>
-The code and pretrained model for our paper: <b>Location-aware Single Image Reflection Removal</b><!--   (<a href="1">Arxiv Preprint</a>) -->
+The code and pretrained model for our paper: <b>Location-aware Single Image Reflection Removal</b> (<a href="https://arxiv.org/pdf/2012.07131.pdf">Arxiv Preprint</a>)
 </p>
 
 ---
@@ -32,10 +32,16 @@ Our code has been tested under the following platform and environment:
 - Run ```python3 inference.py```
 - The inference results are in the ```./results``` folder
 
-<!--   
+   
 ## Citation
 If you find our work helpful to your research, please consider to cite our paper.
 ```bibtex
+@article{dong2020location,
+  author = {Zheng Dong and Ke Xu and Yin Yang and Hujun Bao and Weiwei Xu and Rynson W.H. Lau},
+  title = {Location-aware Single Image Reflection Removal},
+  journal={ArXiv},
+  volume={abs/2012.07131},
+  year = {2020}
+}
 ```
--->
 
