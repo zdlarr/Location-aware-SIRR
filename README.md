@@ -34,7 +34,7 @@ Our code has been tested under the following platform and environment:
 
    
 ## Citation
-If you find our work helpful to your research, please consider to cite our paper.
+If you find our work helpful to your research, please cite our paper.
 ```bibtex
 @article{dong2020location,
   author = {Zheng Dong and Ke Xu and Yin Yang and Hujun Bao and Weiwei Xu and Rynson W.H. Lau},
