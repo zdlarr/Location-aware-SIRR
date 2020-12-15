@@ -524,7 +524,7 @@ class LocationAwareSIRR(nn.Module):
             self.h, self.c, self.c_map, self.fake_R, self.fake_T4, self.fake_T2, self.fake_T = \
                 self.netG_T(self.I, self.fake_Ts[-1], self.h, self.c)
 
-            self.rcmaps.append(1 - self.c_map)
+            self.rcmaps.append(self.c_map)
             self.fake_Rs.append(self.fake_R)
             self.fake_Ts.append(self.fake_T)
         
