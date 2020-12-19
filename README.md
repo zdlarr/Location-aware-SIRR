@@ -1,8 +1,6 @@
 <h2 align="center">Location-aware Single Image Reflection Removal</h2>
 
-<div align='center'>
-<img src='doc_gif/demo.gif' width="95%"/>
-</div>
+![Examples](./doc_gif/demo.gif)
 
 <p align='center'>
 The shown images are provided by the datasets from <a href="https://github.com/JHL-HUST/IBCLN">IBCLN</a>, <a href="https://github.com/Vandermode/ERRNet">ERRNet</a>, <a href="https://sir2data.github.io/">SIR<sup>2</sup></a> and the Internet images.
