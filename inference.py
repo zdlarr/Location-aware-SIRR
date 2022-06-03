@@ -28,7 +28,7 @@ else:
     device = 'cpu'
 
 # args for dataloader and display.
-opts.num_threads    = 1
+opts.num_threads    = 0
 opts.batch_size     = 1
 opts.serial_batches = True
 opts.display_id     = -1
